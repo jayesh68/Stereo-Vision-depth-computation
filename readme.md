@@ -31,12 +31,12 @@ The objectives as part of this project are to identify the similarities between 
 </p>
 
 <h1>Correspondence</h1>
-<p align="center">
+<p float="left">
 <img src="https://github.com/jayesh68/Stereo-Vision-depth-computation/blob/main/disparity_heatmap.png" width="300" height="300"/>
 </p>
 
 <h1>Depth Computation</h1>
-<p align="center">
+<p float="left">
 <img src="https://github.com/jayesh68/Stereo-Vision-depth-computation/blob/main/Depth_heatmap.png" width="300" height="300"/>
 </p>
 
