@@ -20,24 +20,24 @@ The objectives as part of this project are to identify the similarities between 
 <h1>Rectification</h1>
 <h2>Before Rectification</h2>
 <p float="left">
-<img src="https://github.com/jayesh68/Stereo-Vision-depth-computation/blob/main/eplines1.png" width="400" height="400" />
-<img src="https://github.com/jayesh68/Stereo-Vision-depth-computation/blob/main/epilines2.png" width="400" height="400"/>
+<img src="https://github.com/jayesh68/Stereo-Vision-depth-computation/blob/main/eplines1.png" width="300" height="300" />
+<img src="https://github.com/jayesh68/Stereo-Vision-depth-computation/blob/main/epilines2.png" width="300" height="300"/>
 </p>
 
 <h2>Post Rectification</h2>
 <p float="left">
-<img src="https://github.com/jayesh68/Stereo-Vision-depth-computation/blob/main/rect31.png" width="400" height="400" />
-<img src="https://github.com/jayesh68/Stereo-Vision-depth-computation/blob/main/rect32.png" width="400" height="400"/>
+<img src="https://github.com/jayesh68/Stereo-Vision-depth-computation/blob/main/rect31.png" width="300" height="300" />
+<img src="https://github.com/jayesh68/Stereo-Vision-depth-computation/blob/main/rect32.png" width="300" height="300"/>
 </p>
 
 <h1>Correspondence</h1>
 <p align="center">
-<img src="https://github.com/jayesh68/Stereo-Vision-depth-computation/blob/main/disparity_heatmap.png"/>
+<img src="https://github.com/jayesh68/Stereo-Vision-depth-computation/blob/main/disparity_heatmap.png" width="300" height="300"/>
 </p>
 
 <h1>Depth Computation</h1>
 <p align="center">
-<img src="https://github.com/jayesh68/Stereo-Vision-depth-computation/blob/main/Depth_heatmap.png"/>
+<img src="https://github.com/jayesh68/Stereo-Vision-depth-computation/blob/main/Depth_heatmap.png" width="300" height="300"/>
 </p>
 
 <h1>Link to view the project results</h1>
